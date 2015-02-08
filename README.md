@@ -1,2 +1,2 @@
 # hello-word
-Começando a usar o git
+Começando a usar o git!
